@@ -100,7 +100,7 @@ h3.font-light,
 h4.font-light,
 h5.font-light,
 h6.font-light {
-    color: #93bcff;
+    color: #dfe3ea;
 }
 
 .big-heading {
@@ -127,7 +127,7 @@ p.lead {
     background-color: rgba(0, 0, 0, .5);
     padding: 20px;
     display: inline-block;
-    color: #fff;
+    color: #dfe3ea;
 }
 
 .highlight-color {
@@ -179,7 +179,7 @@ blockquote strong {
 /* ------- Navigation ------------ */
 
 #navigation {
-    background: #fff;
+    background: #404040;
     z-index: 9999;
     width: 100%;
     box-sizing: border-box;
@@ -673,7 +673,7 @@ hr.bold {
 }
 
 .color-dark .section-heading h2 {
-    color: #111;
+    color: #dfe3ea;
 }
 
 .color-dark .section-heading p {
@@ -713,7 +713,7 @@ hr.bold {
 /* --- section bg var --- */
 
 .bg-white {
-    background: #fff;
+    background: #121213;
 }
 
 .bg-gray {
@@ -728,7 +728,7 @@ hr.bold {
 /* --- section color var --- */
 
 .text-light {
-    color: #fff;
+    color: #dfe3ea;
 }
 
 
