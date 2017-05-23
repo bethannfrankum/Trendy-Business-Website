@@ -807,6 +807,10 @@ hr.bold {
     display: inline-block;
 }
 
+.home-video {
+    background-image: url("../img/pexels-photo-121497.jpeg")
+}
+
 #intro.home-video {
     position: relative;
     margin: 0 auto;
@@ -1667,7 +1671,7 @@ Parallax
 }
 
 #parallax1:after {
-    background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAYAAACp8Z5+AAAAEklEQVQImWNgYGD4z0AswK4SAFXuAf8EPy+xAAAAAElFTkSuQmCC);
+    /*background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAYAAACp8Z5+AAAAEklEQVQImWNgYGD4z0AswK4SAFXuAf8EPy+xAAAAAElFTkSuQmCC);*/
     content: "";
     position: absolute;
     bottom: 0;
@@ -1710,6 +1714,26 @@ Parallax
 
 #parallax3:after {
     background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAYAAACp8Z5+AAAAEklEQVQImWNgYGD4z0AswK4SAFXuAf8EPy+xAAAAAElFTkSuQmCC);
+    content: "";
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    top: 0;
+    opacity: 0.9;
+    z-index: -1;
+}
+
+#parallax4 {
+    background-image: url(../img/sky-space-dark-galaxy.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    display: block;
+    position: relative;
+    z-index: 120;
+}
+
+#parallax4:after {
     content: "";
     position: absolute;
     bottom: 0;
