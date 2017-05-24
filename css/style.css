@@ -2320,4 +2320,11 @@ a.btn:focus {
         border-radius: 50%;
         font-size: 20px;
     }
+    .big-heading {
+        font-size: 22px;
+    }
+    .wow2 {
+        margin-top: -15px;
+        margin-bottom: -15px;
+    }
 }
