@@ -1,4 +1,4 @@
-/*
+    /*
     Theme Name: Valera
     Theme URL: https://bootstrapmade.com/valera-free-bootstrap-theme/
     Author: BootstrapMade
@@ -2331,7 +2331,5 @@ a.btn:focus {
         height: 350px;
     }
     .svgLogo {
-        height: 40px;
-        width: 120px;
+        width: 25%;
     }
-}
