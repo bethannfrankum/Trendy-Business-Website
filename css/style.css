@@ -2183,7 +2183,7 @@ Parallax
                     background: #111;
                 }
                 .navbar-header button.navbar-toggle {
-                    margin-top: -20px;
+                    margin-top: 20px;
                     padding: 4px 15px;
                     font-size: 14px;
                     color: #fff;
