@@ -2016,4 +2016,8 @@ a.btn:focus {
     #parallax2 {
         background-image: url(../img/parallax/sm2.jpg);
     }
+    
+    #parallax3 {
+        background-image: url(../img/parallax/sm3.jpeg);
+    }
 }
