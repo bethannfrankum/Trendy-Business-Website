@@ -31,9 +31,13 @@ html {
     height: 100%;
 }
 
+img.svglogo {
+    height: 48px;
+}
 
-/* .svglogo {
-                height: 90px;*/
+.mob-logo {
+    height: 54px;
+}
 
 
 }
